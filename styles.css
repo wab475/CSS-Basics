@@ -1,0 +1,14 @@
+body{
+    background-color:rgb(234, 241, 201);
+    color:olive;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      }
+
+.border {
+    border: 5px double rgb(193, 240, 64);
+    text-shadow: 2px 2px #aec963;
+}
+.underlining {
+    text-decoration-line: underline;
+}
+
